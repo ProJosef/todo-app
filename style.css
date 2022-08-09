@@ -36,6 +36,9 @@ input[type=button]{
   margin-block: 5px;
   border-radius: 10px;
 }
+#tasks input[type=text]{
+  width: 200px
+}
 #tasks input:focus{
   outline: none;
 }
