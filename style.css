@@ -37,7 +37,7 @@ input[type=button]{
   border-radius: 10px;
 }
 #tasks input[type=text]{
-  width: 200px
+  width: 150px
 }
 #tasks input:focus{
   outline: none;
